@@ -1,0 +1,31 @@
+.container {
+	margin: 0 auto;
+	width: 600px;
+}
+
+.artwork {
+	width: 600px;
+}
+
+.review {
+	width: 600px;
+	font-family: tahoma;
+}
+
+.settings {
+	padding: 20px 0 0 0;
+}
+
+.eachReview {
+	margin-top: -80px;
+}
+
+h1 {
+	font-family: tahoma;
+}
+
+p {
+	padding-top: 100px;
+	font-family: tahoma;
+}
+
